@@ -38,3 +38,7 @@ node_modules/
 .build/
 .swiftpm/
 *.tsbuildinfo
+
+# Local files
+**/xcuserdata/
+.env.local
