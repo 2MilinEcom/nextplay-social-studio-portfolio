@@ -1,0 +1,2 @@
+-r requirements-editor.txt
+cryptography>=45.0

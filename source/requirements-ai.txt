@@ -1,0 +1,6 @@
+-r requirements.txt
+openai>=1.30
+open_clip_torch>=2.24
+Pillow>=10.0
+torch>=2.2
+langgraph>=0.2

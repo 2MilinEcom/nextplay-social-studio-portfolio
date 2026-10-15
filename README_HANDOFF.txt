@@ -1,0 +1,1 @@
+Read TECHNICAL_HANDOFF.md first. source/ is the preserved NextPlay V4.0.2 baseline. Product/media data and credentials must be transferred separately. Verify PACKAGE_MANIFEST.json and the external ZIP SHA-256 before migration.

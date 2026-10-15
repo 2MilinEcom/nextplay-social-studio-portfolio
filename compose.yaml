@@ -1,0 +1,12 @@
+services:
+  nextplay:
+    build: .
+    ports:
+      - "127.0.0.1:8770:8770"
+    env_file:
+      - .env.local
+    volumes:
+      - nextplay-data:/data
+    restart: unless-stopped
+volumes:
+  nextplay-data:

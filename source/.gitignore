@@ -1,0 +1,13 @@
+.env
+.browser-profile/
+.browser-downloads/
+selenium-profile/
+selenium-ephemeral/
+products/*/raw/
+products/*/thumbnails/
+products/*/clips/
+products/*/ads/*.mp4
+products/*/quarantine/
+__pycache__/
+*.pyc
+.DS_Store
